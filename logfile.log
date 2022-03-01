@@ -1,0 +1,4 @@
+2021-11-11 17:01:15,531 :INFO :test_Loging :I am Information
+2021-11-11 17:01:15,531 :WARNING :test_Loging :I am Warning statement
+2021-11-11 17:01:15,531 :ERROR :test_Loging :I am an Error
+2021-11-11 17:01:15,532 :CRITICAL :test_Loging :I am Critical issue
