@@ -2,3 +2,7 @@
 2021-11-11 17:01:15,531 :WARNING :test_Loging :I am Warning statement
 2021-11-11 17:01:15,531 :ERROR :test_Loging :I am an Error
 2021-11-11 17:01:15,532 :CRITICAL :test_Loging :I am Critical issue
+2024-03-22 11:40:48,833 :INFO :test_Loging :I am Information
+2024-03-22 11:40:48,833 :WARNING :test_Loging :I am Warning statement
+2024-03-22 11:40:48,833 :ERROR :test_Loging :I am an Error
+2024-03-22 11:40:48,833 :CRITICAL :test_Loging :I am Critical issue

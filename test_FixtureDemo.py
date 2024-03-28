@@ -10,6 +10,7 @@ class FixtureDemo(BaseClass):
         log.info()
         print("Demo 1 execute once")
 
+    @pytest.fixture()
     def test_demo2(self):
         print("Demo 2 execute once")
 
